@@ -12,3 +12,5 @@ Aca vamos a hacer un resumen de React
 10-npm run dev
 
 crear componentes, rafce
+
+una hora diez empieza a explicar los componentes
