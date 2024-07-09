@@ -1,11 +1,11 @@
 import React from 'react'
 
-const cartWidget = () => {
+export const cartWidget = () => {
   return (
     <div>
-      
+      soy una cart
     </div>
   )
 }
 
-export default cartWidget
+

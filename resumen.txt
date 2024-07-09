@@ -14,3 +14,6 @@ Aca vamos a hacer un resumen de React
 crear componentes, rafce
 
 una hora diez empieza a explicar los componentes
+
+el archivo html no se toca
+tampoco el archivo main jsx

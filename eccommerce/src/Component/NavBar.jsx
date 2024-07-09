@@ -1,11 +1,11 @@
 import React from 'react'
 
-const NavBar = () => {
+export const NavBar = () => {
   return (
     <nav>
-      
+      <a href="">soy un navegador</a>
     </nav>
   )
 }
 
-export default NavBar
+

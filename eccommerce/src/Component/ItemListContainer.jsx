@@ -1,11 +1,11 @@
 import React from 'react'
 
-const ItemListContainer = () => {
+export const ItemListContainer = () => {
   return (
     <div>
-      
+      soy una lista
     </div>
   )
 }
 
-export default ItemListContainer
+
