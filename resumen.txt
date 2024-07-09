@@ -8,3 +8,5 @@ Aca vamos a hacer un resumen de React
 7- JavaScript + SWC
 8-npm install
 9- cd vite-project fijaste de estar en la consola en la carpeta que contiene el paquete json
+
+10-npm run dev
